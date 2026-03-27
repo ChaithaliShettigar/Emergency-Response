@@ -98,5 +98,5 @@ The frontend should now be running, typically accessible at `http://localhost:30
 4. **Resilient Microservices**: Features distributed system durability, meaning each module runs its separate database collections and handles failures gracefully.
 
 ---
-**Maintained by**: [ChaithaliShettigar](https://github.com/ChaithaliShettigar)
+
 
