@@ -1,3 +1,4 @@
+
 # Emergency Response & Smart Campus Management System
 
 A comprehensive, microservices-based web application built on the MERN stack (MongoDB, Express, React, Node.js) designed to handle emergency response, complaints, and campus maintenance requests.
@@ -98,3 +99,4 @@ The frontend should now be running, typically accessible at `http://localhost:30
 
 ---
 **Maintained by**: [ChaithaliShettigar](https://github.com/ChaithaliShettigar)
+
